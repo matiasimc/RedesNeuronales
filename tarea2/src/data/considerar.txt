@@ -1,0 +1,15 @@
+considerar
+
+guiones -palabras- ojo, cuando estan entremedio de palabras es considerado una sola palabra (TEPITO-TE-HENÚA)
+puntos suspensivos
+signos de interrogacion y exclamacion
+dos puntos y punto y coma
+coma
+punto
+comillas ""
+parentesis ()
+comilla ' es parte de la palabra (O'Higgins)
+
+# separa poemas
+% separa estrofas
+& separa versos
