@@ -14,6 +14,6 @@ class Parse:
         self.vocab_size = len(self.chars)
         self.char_to_index = {ch:i for i, ch in enumerate(self.chars)}
         self.index_to_char = {i:ch for i, ch in enumerate(self.chars)}
-        self.hidden_layer = 100
+        self.hidden_layer = 30
         self.learning_rate = 0.1
-        self.epoch = 480
+        self.epoch = 1
